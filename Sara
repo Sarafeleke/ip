@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head> 
+</head> 
+<body>
+<! Html tags....
+< comment >
+The HTML comment tag is used to write comments in main HTML code file. 
+< doctype >
+The Doctype declaration is used to tell the Browser about the version of HTML. 
+<anchor Tag>
+The anchor tag is used to create hyperlinks on web page.
+< abbr >
+The abbr tag is used to define an abbreviation like HTML, CSS etc. 
+<acronym >
+Acronym Tag is like abbr tag. Acronym tag is used to define the abbreviation. 
+<address >
+The address tag is used to define contact information of the author of a website or document. 
+< applet>
+The applet tag is used to embed Java applets in HTML. 
+< area >
+The area tag defines area inside an image map. 
+< article >
+HTML article Tag is used for the independent content. 
+<aside >
+HTML aside Tag is used to define the aside content from main content. 
+<audio >
+HTML audio Tag is used to define the audio content. 
+<b >
+HTML b Tag is used to define the bold text. 
+< base >
+HTML base Tag defines the base URL of all the URLS in HTML Document. 
+< basefont>
+HTML basefont Tag is used to define the size, color, and font of all text in the document. 
+<bdi>
+HTML bdi Tag is used to write the text with a different direction from other text. 
+<bdo >
+HTML bdo Tag is used to override the text direction. 
+<big >
+HTML big Tag is used to define big text. 
+< blockquote >
+HTML blockquote Tag is used to quote content from some other source. 
+<body >
+HTML body Tag is used to define the Web Page Body. 
+< br>
+HTML br Tag is used create a line break in normal flow of content. 
+< button >
+HTML button Tag is used to create the HTML button. 
+< canvas >
+HTML canvas Tag is used to draw graphics element using JavaScript. 
+<caption >
+HTML caption Tag is define the table caption. 
+<center >
+HTML center Tag is used to centralize the text. 
+< cite >
+HTML cite Tag is used to define the title of the work.
+<code>
+HTML code Tag is used to define the code in document. 
+<col >
+HTML col Tag is used to define column properties for columns in column group. 
+<colgroup >
+HTML colgroup Tag is used to define group of columns in table. 
+<data >
+HTML data Tag is used to define machine readable translation. 
+< datalist >
+HTML datalist Tag defines the input control options list.
+<dd >
+defines the description of the term in description list. 
+< del>
+HTML del Tag defines the deleted text from the document.
+< details >
+HTML details Tag defines the extra details about content. 
+< dfn >
+HTML dfn Tag is used to define the defining instance of a term. 
+<dialog>
+HTML dialog Tag defines the dialog box. 
+<dir >
+HTML dir Tag defines the directory list. 
+<div >
+HTML div Tag defines the container for content. 
+< dl >
+HTML dl Tag defines the description list. 
+<dt >
+HTML dt Tag defines the term in description list.
+< em >
+HTML em Tag defines emphasized text. 
+<embed >
+HTML embed Tag defines container for external content. 
+<fieldset >
+HTML fieldset Tag defines related elements in a form. 
+<figcaption >
+HTML figcaption Tag defines caption for figure tag. 
+< figure >
+HTML figure Tag defines self contained content.
+< font>
+HTML font Tag defines font for text. 
+< footer >
